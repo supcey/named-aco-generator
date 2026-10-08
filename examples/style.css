@@ -1,0 +1,3 @@
+:root { --brand-blue: #1a73e8; --sunset: #ff5733; }
+.btn-primary { color: #ffffff; background: #1a73e8; }
+.card { border: 1px solid #ddd; }
